@@ -7,7 +7,7 @@ def hangman():
     guessed_letters = []
     attempts = 6
 
-    print(" Welcome to Hangman!")
+    print(" Welcome to Hangman Game!")
     print("Guess the word, one letter at a time.")
     print("You have 6 chances. Good luck!\n")
 
